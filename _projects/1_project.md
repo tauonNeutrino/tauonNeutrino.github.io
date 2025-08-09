@@ -8,16 +8,9 @@ category: work
 related_publications: false
 ---
 
-I was involved in all aspects of Dortmund's sensor preparations for ATLAS phase II over the course of that summer. I enjoyed most helping to functionalize the coldbox (used for temperature cycling) and adding code specifically designed to measure the principle angles of the sensor in any given micro-photograph. This was very useful for gaining more precision in sensor dimensions!
+Over the course of that summer, I was involved in nearly all aspects of Dortmund's sensor preparations for ATLAS phase II. I enjoyed most helping to functionalize the coldbox (used for temperature cycling) through repairs and software functionality to measure the Euler angles of the sensor in any given scan. This was very useful for gaining more precision in sensor dimensions, and in understanding the construction process per chip.
 
-The significance of this was to ensure that in the future, all fabricated sensors that TU Dort. would produce are up to a tight standard of construction. Any tiny sensor defect could balloon into missed weeks of collision time and over thousands of dollars lost.
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The significance of this was to ensure that in the future, all fabricated sensors that TU Dort. would produce are up to a tight standard of construction. Any tiny sensor defect could balloon into missed weeks of collision time and over thousands of dollars lost. Sensor curvature, warping and misplaced components all contribute to lost science at some level.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,14 +25,14 @@ The significance of this was to ensure that in the future, all fabricated sensor
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/R2_48_2_o_rescaled.png" title="Full image of a R5 radial strip sensor." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/R2_48_2_o_rescaled.png" title="Full image of a R2 radial strip sensor." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A height profile of the entire R5 silicon sensor
+    A colorless scan of the R2 sensor module. These are typically arranged in cylindrical slices around the beam axis, with R2 signifying closer to collisions than R5.
 </div>
 
-Add more text here describing the final results.
+As the project came to a close, I found that I was most helpful with matching by angles. In OpenCV, it is quite easy to take a small template image and match it against the image of interest. The distribution of correlations can be shown, where the maximum corresponds to the angle of the reference image. By cross referencing different parts of the image of interest, we found small differences in angles, indicative of an imperfect production of that sensor. Finally, we got our measurement precision below the thresholds set by CERN!
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -50,6 +43,6 @@ Add more text here describing the final results.
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    A display of measurement variance with our image matching techniques. The threshold is 100 microns, which greatly encompasses our values as the y axis in both module classes!
 </div>
 
