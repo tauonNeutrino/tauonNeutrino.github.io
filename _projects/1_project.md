@@ -17,11 +17,11 @@ The significance of this was to ensure that in the future, all fabricated sensor
         {% include figure.liquid loading="eager" path="assets/img/R2_68_1_h.jpg" title="A height subtraction transformation to cut out unnecessary information." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/upper_strip_template.png" title="An example of template matching with OpenCV that was used to determine pixel ratios between different images." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tracing_image.png" title="An example of template matching with OpenCV that was used to determine pixel ratios between different images." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: A height subtraction transformation to cut out unnecessary information. Right: An example of template matching with OpenCV that was used to determine pixel ratios between different images.
+    Left: A height subtraction transformation to cut out unnecessary information. Right: An example of template matching with OpenCV that was used to determine component locations.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,13 +36,13 @@ As the project came to a close, I found that I was most helpful with matching by
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/R2_variations.png" title="R2 accuracy" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/R5_variations.png" title="R5 accuracy" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A display of measurement variance with our image matching techniques. The threshold is 100 microns, which greatly encompasses our values as the y axis in both module classes!
+    A display of measurement variance with our image matching techniques. The threshold resolution is 100 microns, which greatly encompasses our values as the y axis in both module classes!
 </div>
 
