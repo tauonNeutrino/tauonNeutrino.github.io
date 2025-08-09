@@ -37,7 +37,7 @@ horizontal: false
   {% endif %}
   {% endfor %}
 
-{% else %}
+<!--{% else %}-->
 
 <!-- Display projects without categories --
 
