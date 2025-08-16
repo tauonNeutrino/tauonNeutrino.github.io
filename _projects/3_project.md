@@ -22,8 +22,3 @@ For context, a Cartesian Product graph is a pretty nifty way to represent bipart
 </div>
 
 The gist of my results - keep in mind that this was the culmination of many weeks of trial and error with a SLURM supercomputing environment. These trends show the resource scaling of embeddings for problems of size Kn, where n is the number of qubits to a partition. For example, K18 x K10 houses a bipartite graph of 180 logical qubits, but connections (couplings) require physical qubits, and embedding the entire structure therefore takes over 3000 physical qubits! 
-
-
-```
-
-{% endraw %}
