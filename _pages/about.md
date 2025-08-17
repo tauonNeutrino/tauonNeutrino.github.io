@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 920=382=5020. Don't forget - "Complexity is a veil!"
+subtitle: 920 382 5020. Don't forget - Complexity is a veil.
 
 profile:
   align: right
