@@ -466,9 +466,9 @@ ninja.data = [{
           description: "A small venture into the embedding statistics for a quantum annealer.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-the-future",
+          title: 'The future ..',
+          description: ".. what I will be doing next",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
