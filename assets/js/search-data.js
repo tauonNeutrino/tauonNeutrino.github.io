@@ -435,7 +435,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-quantum-computing-and-information",
+      },{id: "books-the-road-to-reality",
+          title: 'The Road to Reality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Penrose/";
+            },},{id: "books-the-road-to-reality",
+          title: 'The Road to Reality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/penrose/";
+            },},{id: "books-quantum-computing-and-information",
           title: 'Quantum Computing and Information',
           description: "",
           section: "Books",handler: () => {
