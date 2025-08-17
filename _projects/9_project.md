@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The future - 
-description: - what I will be doing next
+title: The future ..
+description: .. what I will be doing next
 img: assets/img/light_cone.png.svg
 importance: 4
 category: fun
