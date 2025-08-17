@@ -1,18 +1,18 @@
 ---
 layout: book-review
-title: The Godfather
+title: Quantum Computing and Information
 author: Peter Y. Lee et al.
 cover: assets/img/book_covers/qcasa_book.png
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 978-1-961-88000-9 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: mathematics quantum-computing textbook informative nonfiction
-tags: top-100
+tags: top-4
 buy_link: [https://polarisqci.com/qci-501-textbook]
 started: 2024-12-20
 finished: 2025-05-01
 released: 2024
 stars: 5
-goodreads_review: 6318556633 # update this!!!
+goodreads_review: 6318556633
 status: Finished
 ---
 
