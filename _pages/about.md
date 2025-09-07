@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 920 382 5020. "All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost" -- J.R.R. Tolkien (The Fellowship of the Ring)
+subtitle: "All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost" -- J.R.R. Tolkien (The Fellowship of the Ring)
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
 
 I am currently just past the undergraduate stages of my life. Tune in later to see what graduate institution I find myself working in. Tune in too late, and ... you may miss my PhD!
 
-As of now I am looking most into quantum information science as my future. I am very interested in studing entanglement, when interactions between quantum states leave an invisible "link" between them. This amazing structure likely plays a significant role for matter at small enough scales, and I think we are far from discovering all uses for it (yet!). Additionally, there is amazing utility that people have found in quantum simulation, where using the tunable environment of lightwaves, condensed helium or superatoms, scientists can model foreign phenomena like black holes or even the big bang.
+As of now I am looking most into quantum information science as my future. I am very interested in studing entanglement, when interactions between quantum states leave an invisible "link" between them. This amazing structure likely plays a significant role for matter at small enough scales, and I think we are far from discovering all uses for it. Additionally, there is amazing utility that people have found in quantum simulation, where using the tunable environment of lightwaves, condensed helium or atomic lattices, scientists can model foreign phenomena like superconductivity, black holes or even the big bang.
 
-Please contact me with any research opportunities or questions regarding QIS or physics simulations. When I am not a full time student I am full time employed - it may take a day or two for response.
+Please contact me with any research opportunities or questions regarding research opportunities or inquiries. When I am not a full time student I am full time employed - it may take a day or two for response.
 
