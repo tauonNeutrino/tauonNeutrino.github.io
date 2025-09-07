@@ -2,9 +2,12 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Myself and my affiliates - I am always finding more!
+description: I need more academic friends!
 nav: true
 nav_order: 7
+---
+Only the most influential and famous people I know are getting up on this page (my mom will be on there soon, don't worry)
+<!--
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -16,3 +19,5 @@ profiles:
     more_info: >
       <p>West Lafayette, IN</p>
 ---
+
+--!>
