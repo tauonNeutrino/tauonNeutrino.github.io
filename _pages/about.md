@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: 920 382 5020. Don't forget - Complexity is a veil.
+subtitle: 920 382 5020. "All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost" -- J.R.R. Tolkien (The Fellowship of the Ring)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website_pic.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
