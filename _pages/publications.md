@@ -7,10 +7,12 @@ nav: true
 nav_order: 2
 ---
 
+Coming soon - a foray in quantum magic and machine learning!
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
+<!--
 {% include bib_search.liquid %}
 
 <div class="publications">
@@ -18,3 +20,4 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+-->
