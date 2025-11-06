@@ -6,7 +6,7 @@ subtitle: All that is gold does not glitter; Not all those who wander are lost; 
 
 profile:
   align: right
-  image: website_pic_2.jpg
+  image: website_pic_3.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
