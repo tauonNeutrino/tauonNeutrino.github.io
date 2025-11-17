@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-redirect: /assets/pdf/CV - Robin Carpenter.pdf
+redirect: /assets/pdf/CV Robin Carpenter - IV.pdf
 ---
