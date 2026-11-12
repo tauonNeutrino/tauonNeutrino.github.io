@@ -348,10 +348,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-image-metrology",
+            },},{id: "projects-image-metrology",
           title: 'Image Metrology',
           description: "An internship in Dortmund, DE led me to developing my skills in image metrology and software engineering. My most intensive project in coding, the support I received from my supervisors helped me increase the resolution and detection capabilities of their software near tenfold.",
           section: "Projects",handler: () => {
