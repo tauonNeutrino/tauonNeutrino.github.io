@@ -1,8 +1,8 @@
-I am currently just past the undergraduate stages of my life. Tune in later to see what graduate institution I find myself working in. Tune in too late, and ... you may miss my PhD!
+One year after graduating, I realized that I have no desire to enter graduate school, or at least yet. Despite this challenge, I am working to bring quantum information science and techniques into my future as a career. Continual advances in quantum simulation, across many architectures and regimes, have enamored me into studying how I can bring value to this field. . .
 
-As of now I am looking most into quantum information science as my future. I am very interested in studing entanglement, when interactions between quantum states leave an invisible "link" between them. This amazing structure likely plays a significant role for matter at small enough scales, and I think we are far from discovering all uses for it (yet!). Additionally, there is amazing utility that people have found in quantum simulation, where using the tunable environment of lightwaves, condensed helium or superatoms, scientists can model foreign phenomena like black holes or even the big bang.
+My current developments are focused around < 1 > quantum circuit simulation with Qiskit, < 2 > the foundations of tensor networks and alternative descriptions of quantum systems, and < 3 > the basics in chemical models.
 
-Please contact me with any research opportunities or questions regarding QIS or physics simulations. When I am not a full time student I am full time employed - it may take a day or two for response.
+Please contact me with any research opportunities or questions regarding research opportunities or inquiries! I will always be full time employed to cover my cost of living and education - it may take a day or two for me to respond.
 
  <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
