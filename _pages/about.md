@@ -48,6 +48,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 !--->
-One year after graduating, I realized that I have no desire to enter graduate school, or at least yet. Despite this challenge, I am working to bring quantum information science and techniques into my future as a career. Continual advances in quantum simulation, across many architectures and regimes, have enamored me into studying how I can bring value to this field. My current developments are focused around < 1 > quantum circuit simulation with Qiskit, < 2 > the foundations of tensor networks and alternative descriptions of quantum systems, and < 3 > the basics in chemical models. 
+One year after graduating, I realized that I have no desire to enter graduate school, or at least yet. Despite this challenge, I am working to bring quantum information science and techniques into my future as a career. Continual advances in quantum simulation, across many architectures and regimes, have enamored me into studying how I can bring value to this field. . .
+
+My current developments are focused around < 1 > quantum circuit simulation with Qiskit, < 2 > the foundations of tensor networks and alternative descriptions of quantum systems, and < 3 > the basics in chemical models. 
 
 Please contact me with any research opportunities or questions regarding research opportunities or inquiries! I will always be full time employed to cover my cost of living and education - it may take a day or two for me to respond.
