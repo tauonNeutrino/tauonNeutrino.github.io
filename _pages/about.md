@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /about/
-subtitle: All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost -- J.R.R. Tolkien, The Fellowship of the Ring
+subtitle: < All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost > - J.R.R. Tolkien, The Fellowship of the Ring
 
 profile:
   align: right
