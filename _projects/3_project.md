@@ -3,7 +3,6 @@ layout: page
 title: Embedding with DWave
 description: A small venture into the embedding statistics for a quantum annealer.
 img: assets/img/CPCG_3.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
