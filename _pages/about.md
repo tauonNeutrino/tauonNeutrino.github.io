@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: .about
 permalink: /about/
-subtitle: -All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost - J.R.R. Tolkien, The Fellowship of the Ring
+subtitle: "All that is gold does not glitter; Not all those who wander are lost; The old that is strong does not wither; Deep roots are not reached by the frost" - J.R.R. Tolkien, The Fellowship of the Ring
 
 profile:
   align: right
@@ -48,7 +48,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 !--->
-One year after graduating, I realized that I have no desire to enter graduate school, or at least yet. Despite this challenge, I am working to bring quantum information science and techniques into my future as a career. Continual advances in quantum simulation, across many architectures and regimes, have enamored me into studying how I can bring value to this field. . .
+One year after graduating, I realized that it was not my time to enter graduate school, yet. Despite this challenge, I am working to bring quantum information science and techniques into my future as a career. Continual advances in quantum simulation, across many architectures and regimes, have enamored me into studying how I can bring value to this field.
 
 My current developments are focused around | 1 ) quantum circuit simulation with Qiskit, | 2 ) the foundations of tensor networks and alternative descriptions of quantum systems, and | 3 ) the basics in chemical models. 
 
