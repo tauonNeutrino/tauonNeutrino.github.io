@@ -1,12 +1,12 @@
 ---
 layout: about
-title: .about
+title: about
 permalink: /
-subtitle: "All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost"  J.R.R. Tolkien
+subtitle: 
 
 profile:
   align: right
-  image: website_pic_3.png
+  image: website_pic_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>West Lafayette, IN 47906</p>
