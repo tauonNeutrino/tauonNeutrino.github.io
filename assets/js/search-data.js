@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -340,15 +340,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-joined-the-qml-group-at-purdue-university-department-of-physics-and-astronomy-under-andreas-jung",
-          title: 'I have joined the QML group at Purdue University Department of Physics and...',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
+            },},{id: "news-november-2026-announcement",
+          title: 'November 2026 announcement',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-image-metrology",
+            },},{id: "news-i-have-joined-the-qml-group-at-purdue-university-department-of-physics-and-astronomy-under-andreas-jung",
+          title: 'I have joined the QML group at Purdue University Department of Physics and...',
+          description: "",
+          section: "News",},{id: "projects-image-metrology",
           title: 'Image Metrology',
           description: "An internship in Dortmund, DE led me to developing my skills in image metrology and software engineering. My most intensive project in coding, the support I received from my supervisors helped me increase the resolution and detection capabilities of their software near tenfold.",
           section: "Projects",handler: () => {
