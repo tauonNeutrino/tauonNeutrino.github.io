@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: website_pic_3.jpg
+  image: website_pic_3.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>West Lafayette, IN 47906</p>
